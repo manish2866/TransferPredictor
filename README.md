@@ -27,29 +27,6 @@ This project is a **Streamlit-based web application** that allows users to:
 
 ---
 
-## 🛠 Setup Instructions  
-
-### 1. Clone the Repository  
-```bash
-git clone <your-repo-url>
-cd FIFA_Project
-```
-
-### 2. Install Dependencies  
-```bash
-pip install streamlit pandas numpy matplotlib scikit-learn seaborn
-```
-
-### 3. Run the Application  
-```bash
-streamlit run app.py
-```
-
-By default, the app will open in your browser at:  
-👉 `http://localhost:8501/`  
-
----
-
 ## 🚀 Usage  
 
 1. Upload a clean CSV file with required fields (player stats).  
